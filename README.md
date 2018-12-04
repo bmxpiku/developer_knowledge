@@ -13,7 +13,7 @@
  5. Law of Demeter
   - [nice on wiki](https://en.wikipedia.org/wiki/Law_of_Demeter)
  6. [Design patterns](docs/patterns.md)
-  - singelton
+  - singleton
   - composition
   - factory
   - facade
@@ -46,7 +46,7 @@
   - difference between PUT and PATCH
  17. RESTful rules
  18. How mock works (do you know [mockery](http://docs.mockery.io/en/latest/))
- 19. What are the rules of code review
+ 19. What are the rules of [code review](docs/code_review.md)
   - tools like Crucible, etc.
  20. Active record, data mapper
  21. PHP - finally - does it always work?
@@ -72,7 +72,8 @@
   - other usefull tools like Round-robin
  29. databases
   - relative vs non relative - ex. mysql vs mongo
-
+ 30. How to check performance of the code.
+ 31. Linters?
 
 
 
@@ -80,7 +81,7 @@
   - https://www.toptal.com/drupal/interview-questions
   - https://career.guru99.com/top-21-drupal-interview-questions/
   - [How drupal works /slightly outdated](https://stackoverflow.com/a/14434247/1597404)
-  
+
 #### Some php tricks
  - var_dump((bool) 1==2); what will return
  - && vs AND

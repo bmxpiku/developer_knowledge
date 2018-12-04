@@ -1,0 +1,15 @@
+### [Changes in php7](http://php.net/manual/en/migration70.new-features.php)
+ - Scalar type declarations
+ - Return type declarations
+ - Null coalescing operator (??)
+ - Spaceship operator
+ - Constant arrays using define()
+ - Anonymous classes
+ - Unicode codepoint escape syntax
+ - Closure::call()
+ - Filtered unserialize()
+ - IntlChar
+ - Group use declarations - use some\namespace\{ClassA, ClassB, ClassC as C};
+ - Generator delegation
+ - Session options
+ - Class member access on cloning has been added, e.g. (clone $foo)->bar().

@@ -121,3 +121,5 @@ $data = $client->loadOutput();
 $client->setOutput(new JsonStringOutput());
 $data = $client->loadOutput();
 ```
+
+### adapter
