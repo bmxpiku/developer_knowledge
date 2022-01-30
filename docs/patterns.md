@@ -45,7 +45,7 @@ One of the most commonly used design patterns is the factory pattern. In this pa
 ```
 This code uses a factory to create the Automobile object. There are two possible benefits to building your code this way; the first is that if you need to change, rename, or replace the Automobile class later on you can do so and you will only have to modify the code in the factory, instead of every place in your project that uses the Automobile class. The second possible benefit is that if creating the object is a complicated job you can do all of the work in the factory, instead of repeating it every time you want to create a new instance.
 
-Remember sometimes it can just complexity.
+Remember - that sometimes it can just add complexity.
 ## facade
 
 ## strategy

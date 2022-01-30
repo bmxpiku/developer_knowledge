@@ -1,0 +1,1003 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="117 154 1206 3063" style="font-family:balsamiq">
+  <path d="M998 1339q-39.658-47.53-61-113M997 1292q-25.003-34.446-51-67M1000 1247q-31.906-19.94-64-38M1005 1624q39.247-22.77 87.5-19M850 2910q44.536 28.054 116 68M840 2900q51.612 14.963 133 34M728 3211q-1.23-35.837 0-88" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M734 3110q-5.158-67.097-7-165" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <g class="clickable-group" data-group-id="ext_link:google.com">
+    <rect x="633.35" y="3095.35" width="204.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="677" y="3126" font-weight="bold" font-size="17"><tspan>Keep Learning</tspan></text>
+  </g>
+  <path d="M850 2890q51.254 1.636 131 0M256 2920q34.001-2.688 71-10.5M255 2942q36.424-13.013 71-30.5M256 2894q34.96 8.142 64 16.5M318 2790.5q-42.866 32.713-80.5 52M236 2732q35.758 14.277 87 34.5M238 2817.5q41.113-13.632 88-39M238 2789.5q44.686-4.925 92-15M237 2760.5q46.058 2.564 84 11M462 2914.5q53.912-1.034 131 1.5M501 2779.5q28.506 75.065 83 112" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="104-scalability:observability">
+    <rect x="939.35" y="2963.35" width="332.3" height="120.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="968" y="2993.5" font-weight="bold" font-size="17"><tspan>Building with Observability in mind</tspan></text>
+    <text x="957" y="3019" font-size="15"><tspan>Metrics logging and other observable items</tspan></text>
+    <text x="954" y="3042" font-size="15"><tspan>that could help you in debugging and solving</tspan></text>
+    <text x="992" y="3066" font-size="15"><tspan>the issues when things go wrong</tspan></text>
+    <circle cx="1266" cy="2968" r="10" fill="#FFF"/>
+    <circle cx="1266" cy="2968" r="10" fill="#90F"/>
+    <path d="m1260.5 2968 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M802 2849q34.672-36.1 35-95M785 2742.5q-97.659-.692-162 0" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M1078 2129q1.03 37.218 2 80" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M899 2136.5q-44.261.436-88 0" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M505 2155.5q-19.866 150.017-98 196" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M504 2146.5q-41.093 119.663-95 160" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M757 2132.5q-48.498-60.866-108-79.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M509 2134.5q-55.203 45.691-99 91M452 1787.5q30.152 6.326 67 35.5M507 2131.5q-51.902 21.132-103 46M508 2127.5q-65.452 3.028-121 3.5M508 2123.5q-55.756-21.195-107-37.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M507 2135.5q-54.834 95.699-105 128" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M797 2237q5.557-70.395-56-105" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <g class="clickable-group" data-group-id="115-architectural-patterns">
+    <rect x="888.35" y="2112.35" width="314.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="954" y="2143.5" font-weight="bold" font-size="17"><tspan>Architectural Patterns</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-architectural-patterns:monolithic-apps">
+    <rect x="959.35" y="2180.35" width="240.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1018" y="2206" font-size="17"><tspan>Monolithic Apps</tspan></text>
+    <circle cx="1197" cy="2181" r="10" fill="#FFF"/>
+    <circle cx="1197" cy="2181" r="10" fill="#90F"/>
+    <path d="m1191.5 2181 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-architectural-patterns:microservices">
+    <rect x="959.35" y="2225.35" width="241.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1024" y="2250" font-size="17"><tspan>Microservices</tspan></text>
+    <circle cx="1197" cy="2230" r="10" fill="#FFF"/>
+    <circle cx="1197" cy="2230" r="10" fill="#90F"/>
+    <path d="m1191.5 2230 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-architectural-patterns:cqrs">
+    <rect x="958.35" y="2307.35" width="242.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="975" y="2331" font-size="17"><tspan>CQRS and Event Sourcing</tspan></text>
+    <circle cx="1199" cy="2313" r="10" fill="#FFF"/>
+    <circle cx="1199" cy="2313" r="10" fill="#999"/>
+    <path d="m1193.5 2313 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M582 2244.5v62.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M800 2416q-1.882-92.216 0-181" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <g class="clickable-group" data-group-id="116-search-engines">
+    <rect x="513.35" y="2211.35" width="310.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="606" y="2241.5" font-weight="bold" font-size="17"><tspan>Search Engines</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-search-engines:elasticsearch">
+    <rect x="515.35" y="2291.35" width="157.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="546" y="2317" font-size="17"><tspan>Elasticsearch</tspan></text>
+    <circle cx="517" cy="2294" r="10" fill="#FFF"/>
+    <circle cx="517" cy="2294" r="10" fill="#90F"/>
+    <path d="m511.5 2294 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-search-engines:solr">
+    <rect x="515.35" y="2335.35" width="154.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="575" y="2361" font-size="17"><tspan>Solr</tspan></text>
+    <circle cx="517" cy="2339" r="10" fill="#FFF"/>
+    <circle cx="517" cy="2339" r="10" fill="#38761D"/>
+    <path d="m511.5 2339 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-architectural-patterns:soa">
+    <rect x="959.35" y="2266.35" width="241.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1061" y="2291" font-size="17"><tspan>SOA</tspan></text>
+    <circle cx="1197" cy="2271" r="10" fill="#FFF"/>
+    <circle cx="1197" cy="2271" r="10" fill="#90F"/>
+    <path d="m1191.5 2271 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M602 2629.5q-7.453 55.863-1 109" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M490 2621.5q-59.073 5.27-96 2.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="100-graph-databases:neo4j">
+    <rect x="260.35" y="2604.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="305" y="2630" font-size="17"><tspan>Neo4j</tspan></text>
+    <circle cx="263" cy="2605" r="10" fill="#FFF"/>
+    <circle cx="263" cy="2605" r="10" fill="#999"/>
+    <path d="m257.5 2605 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M970.5 2537q-83.582 1.268-119.5 29M969.5 2581q-69.959 8.259-121-11" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M618.5 2621q97.214 9.056 187.5-62" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M386 2487q-46.116-27.181-75-24M388 2498q-47.96 4.878-78 3M400 2499q-48.852 46.717-96 47M1084 2829q-104.514-27.657-199-84" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M1086 2788q-96.356-18.71-199-42M1090 2741q-91.971-7.804-196-2M1089 2698q-92.04-2.535-197 40" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M739 2555q-146.174 38.737-199-48.5M526 2492.5q74.759-52.602 192-55" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M1025 2455q-70.479-7.822-149-14.5M1016 2422q-44.794 3.967-106 8.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="100-message-brokers:rabbitmq">
+    <rect x="1007.35" y="2404.35" width="180.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1056.235" y="2426" font-size="18"><tspan>RabbitMQ</tspan></text>
+    <circle cx="1184" cy="2404" r="10" fill="#FFF"/>
+    <circle cx="1184" cy="2404" r="10" fill="#90F"/>
+    <path d="m1178.5 2404 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1161" cy="2403" r="10" fill="#FFF"/>
+    <circle cx="1161" cy="2403" r="10" fill="#999"/>
+    <path d="m1155.5 2403 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-message-brokers:kafka">
+    <rect x="1007.35" y="2440.35" width="180.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1074.568" y="2462" font-size="18"><tspan>Kafka</tspan></text>
+    <circle cx="1185" cy="2444" r="10" fill="#FFF"/>
+    <circle cx="1185" cy="2444" r="10" fill="#FFF"/>
+    <circle cx="1185" cy="2444" r="10" fill="#38761D"/>
+    <path d="m1179.5 2444 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="117-message-brokers">
+    <rect x="702.35" y="2414.35" width="218.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="741" y="2444" font-weight="bold" font-size="17"><tspan>Message Brokers</tspan></text>
+    <circle cx="917" cy="2413" r="10" fill="#FFF"/>
+    <circle cx="917" cy="2413" r="10" fill="#999"/>
+    <path d="m911.5 2413 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="118-containerization">
+    <rect x="384.35" y="2471.35" width="291.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="396" y="2502.5" font-weight="bold" font-size="17"><tspan>Containerization vs Virtualization</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="122-web-servers">
+    <rect x="751.35" y="2717.35" width="160.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="784" y="2748.5" font-weight="bold" font-size="17"><tspan>Web Servers</tspan></text>
+    <circle cx="906" cy="2714" r="10" fill="#FFF"/>
+    <circle cx="906" cy="2714" r="10" fill="#999"/>
+    <path d="m900.5 2714 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-web-servers:nginx">
+    <rect x="1054.35" y="2676.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1102" y="2702" font-size="17"><tspan>Nginx</tspan></text>
+    <circle cx="1191" cy="2676" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2676" r="10" fill="#90F"/>
+    <path d="m1185.5 2676 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1165" cy="2676" r="10" fill="#FFF"/>
+    <circle cx="1165" cy="2676" r="10" fill="#999"/>
+    <path d="m1159.5 2676 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-web-servers:apache">
+    <rect x="1054.35" y="2722.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1095" y="2748" font-size="17"><tspan>Apache</tspan></text>
+    <circle cx="1191" cy="2727" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2727" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2727" r="10" fill="#38761D"/>
+    <path d="m1185.5 2727 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-web-servers:caddy">
+    <rect x="1054.35" y="2767.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1098" y="2793" font-size="17"><tspan>Caddy</tspan></text>
+    <circle cx="1191" cy="2772" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2772" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2772" r="10" fill="#38761D"/>
+    <path d="m1185.5 2772 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-web-servers:ms-iis">
+    <rect x="1054.35" y="2811.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1102" y="2837" font-size="17"><tspan>MS IIS</tspan></text>
+    <circle cx="1191" cy="2816" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2816" r="10" fill="#FFF"/>
+    <circle cx="1191" cy="2816" r="10" fill="#38761D"/>
+    <path d="m1185.5 2816 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-containerization:docker">
+    <rect x="171.35" y="2437.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="217" y="2463" font-size="17"><tspan>Docker</tspan></text>
+    <circle cx="172" cy="2440" r="10" fill="#FFF"/>
+    <circle cx="172" cy="2440" r="10" fill="#90F"/>
+    <path d="m166.5 2440 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-containerization:rkt">
+    <rect x="171.35" y="2483.35" width="141.3" height="37.3" rx="2" fill="#EEE" stroke="#666" stroke-width="2.7"/>
+    <text x="230" y="2509" fill="#333" font-size="17"><tspan>rkt</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="102-containerization:lxc">
+    <rect x="171.35" y="2528.35" width="141.3" height="37.3" rx="2" fill="#DDD" stroke="#666" stroke-width="2.7"/>
+    <text x="223" y="2554" fill="#333" font-size="17"><tspan>LXC</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="119-graphql">
+    <rect x="696.35" y="2536.35" width="160.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="737" y="2567.5" font-weight="bold" font-size="17"><tspan>GraphQL</tspan></text>
+    <circle cx="854" cy="2537" r="10" fill="#FFF"/>
+    <circle cx="854" cy="2537" r="10" fill="#999"/>
+    <path d="m848.5 2537 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-graphql:apollo">
+    <rect x="958.35" y="2519.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1004" y="2545" font-size="17"><tspan>Apollo</tspan></text>
+    <circle cx="1098" cy="2520" r="10" fill="#FFF"/>
+    <circle cx="1098" cy="2520" r="10" fill="#90F"/>
+    <path d="m1092.5 2520 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1072" cy="2520" r="10" fill="#FFF"/>
+    <circle cx="1072" cy="2520" r="10" fill="#999"/>
+    <path d="m1066.5 2520 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-graphql:relay-modern">
+    <rect x="958.35" y="2565.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="975" y="2591" font-size="17"><tspan>Relay Modern</tspan></text>
+    <circle cx="1096" cy="2570" r="10" fill="#FFF"/>
+    <circle cx="1096" cy="2570" r="10" fill="#FFF"/>
+    <circle cx="1096" cy="2570" r="10" fill="#38761D"/>
+    <path d="m1090.5 2570 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="120-graph-databases">
+    <rect x="455.35" y="2598.35" width="181.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="474" y="2629.5" font-weight="bold" font-size="17"><tspan>Graph Databases</tspan></text>
+    <circle cx="457" cy="2595" r="10" fill="#FFF"/>
+    <circle cx="457" cy="2595" r="10" fill="#999"/>
+    <path d="m451.5 2595 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="121-web-sockets">
+    <rect x="550.35" y="2719.35" width="156.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="577" y="2750.5" font-weight="bold" font-size="17"><tspan>WebSockets</tspan></text>
+    <circle cx="551" cy="2720" r="10" fill="#FFF"/>
+    <circle cx="551" cy="2720" r="10" fill="#999"/>
+    <path d="m545.5 2720 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M687 1137q-84.973 7.627-85 74.5M602 2045q-24.425-34.4 2-62" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M464 2023q36.694-22.492 78-48M455 1977q38.067-1.813 81-4M457 1932q40.386 15.579 86 33" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M683 1967q107.98-13.868 106-128.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M959 1832.5q45.067.342 80 0" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M765 1839q-61.843 2.873-123 4.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M693 1681.5q50.244-7.136 94-52M386 1683q32.896-.412 70-1" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <rect x="166.35" y="1473.35" width="245.3" height="279.3" rx="2" fill="#FFF" stroke="#000" stroke-width="2.7"/>
+  <g class="clickable-group" data-group-id="101-apis:authentication:oauth">
+    <rect x="178.35" y="1525.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="263.75" y="1547" font-size="18"><tspan>OAuth</tspan></text>
+    <circle cx="180" cy="1530" r="10" fill="#FFF"/>
+    <circle cx="180" cy="1530" r="10" fill="#90F"/>
+    <path d="m174.5 1530 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-apis:authentication:basic-authentication">
+    <rect x="178.35" y="1561.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="205.08" y="1583" font-size="18"><tspan>Basic Authentication</tspan></text>
+    <circle cx="180" cy="1566" r="10" fill="#FFF"/>
+    <circle cx="180" cy="1566" r="10" fill="#90F"/>
+    <path d="m174.5 1566 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-apis:authentication:token-authentication">
+    <rect x="178.35" y="1597.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="203.442" y="1619" font-size="18"><tspan>Token Authentication</tspan></text>
+    <circle cx="180" cy="1603" r="10" fill="#FFF"/>
+    <circle cx="180" cy="1603" r="10" fill="#90F"/>
+    <path d="m174.5 1603 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-apis:authentication:jwt">
+    <rect x="178.35" y="1634.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="270.032" y="1656" font-size="18"><tspan>JWT</tspan></text>
+    <circle cx="180" cy="1639" r="10" fill="#FFF"/>
+    <circle cx="180" cy="1639" r="10" fill="#90F"/>
+    <path d="m174.5 1639 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-apis:authentication:openid">
+    <rect x="179.35" y="1670.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="257.658" y="1692" font-size="18"><tspan>OpenID</tspan></text>
+    <circle cx="181" cy="1674" r="10" fill="#FFF"/>
+    <circle cx="181" cy="1674" r="10" fill="#999"/>
+    <path d="m175.5 1674 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-apis:authentication:saml">
+    <rect x="179.35" y="1707.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="265.614" y="1729" font-size="18"><tspan>SAML</tspan></text>
+    <circle cx="181" cy="1712" r="10" fill="#FFF"/>
+    <circle cx="181" cy="1712" r="10" fill="#999"/>
+    <path d="m175.5 1712 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M456 1876q33.68-6.5 57-33M427 1835q44.646-1.331 95-3M268.5 1855.5q40.78-1.112 80.5-19.5M261.5 1810q47.144-2.737 86.5 22" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M888 1622q-67.27 173.38-241.788 206.03" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <g class="clickable-group" data-group-id="110-caching">
+    <rect x="503.35" y="1810.35" width="156.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="545" y="1841.5" font-weight="bold" font-size="17"><tspan>Caching</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-caching:server-side:redis">
+    <rect x="146.35" y="1791.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="194" y="1817" font-size="17"><tspan>Redis</tspan></text>
+    <circle cx="146" cy="1792" r="10" fill="#FFF"/>
+    <circle cx="146" cy="1792" r="10" fill="#90F"/>
+    <path d="m140.5 1792 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-caching:server-side:memcached">
+    <rect x="146.35" y="1837.35" width="141.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="173" y="1863" font-size="17"><tspan>Memcached</tspan></text>
+    <circle cx="148" cy="1841" r="10" fill="#FFF"/>
+    <circle cx="148" cy="1841" r="10" fill="#FFF"/>
+    <circle cx="148" cy="1841" r="10" fill="#38761D"/>
+    <path d="m142.5 1841 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-caching:server-side">
+    <rect x="342.35" y="1815.35" width="126.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="360" y="1841" font-size="17"><tspan>Server Side</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="102-caching:client-side">
+    <rect x="342.35" y="1860.35" width="125.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="362" y="1886" font-size="17"><tspan>Client Side</tspan></text>
+    <circle cx="344" cy="1865" r="10" fill="#FFF"/>
+    <circle cx="344" cy="1865" r="10" fill="#90F"/>
+    <path d="m338.5 1865 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-caching:cdn">
+    <rect x="343.35" y="1773.35" width="126.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="387" y="1798" font-size="17"><tspan>CDN</tspan></text>
+    <circle cx="343" cy="1773" r="10" fill="#FFF"/>
+    <circle cx="343" cy="1773" r="10" fill="#90F"/>
+    <path d="m337.5 1773 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M988 1461q46.651-9.858 102-15M989 1469q45.863 15.224 103 22M688 1637q47.005-6.966 100-15M675.5 1593q58.652-5.83 109 23M995 1614q45.15-49.353 103.5-75M1000.5 1615q43.205 47.092 96 33" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M1003.5 1625q27.673 71.002 93 65" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M895 1465q33.437 76.422-3 147" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M984 1456q40.454-33.895 104-57" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M845 1221q-.562 113.588 5 226" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M771 1471q-44.292 48.654-81 58M769 1471q-46.575-.176-80 7M769 1464q-46.99-29.735-84-27M771 1453q-47.74-67.269-96-67M766 1436q-33.001-63.933-73-92" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M711 1227q49.97 50.623 82 211" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M1007 1205q-36-6.4-81 0M495 1241l-67 111M504 1242q-18.076 87.573-78 157M494 1229l-73 79M500 1222l-86 32M530 1221l-125-14" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="106-relational-databases">
+    <rect x="489.35" y="1202.35" width="226.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="516" y="1233.5" font-weight="bold" font-size="17"><tspan>Relational Databases</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-relational-databases:postgresql">
+    <rect x="244.35" y="1193.35" width="188.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="291" y="1219" font-size="17"><tspan>PostgreSQL</tspan></text>
+    <circle cx="245" cy="1195" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1195" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1195" r="10" fill="#90F"/>
+    <path d="m239.5 1195 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-relational-databases:mysql">
+    <rect x="244.35" y="1239.35" width="188.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="309" y="1265" font-size="17"><tspan>MySQL</tspan></text>
+    <circle cx="245" cy="1245" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1245" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1245" r="10" fill="#38761D"/>
+    <path d="m239.5 1245 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-relational-databases:mariadb">
+    <rect x="244.35" y="1284.35" width="188.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="304" y="1310" font-size="17"><tspan>MariaDB</tspan></text>
+    <circle cx="245" cy="1290" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1290" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1290" r="10" fill="#38761D"/>
+    <path d="m239.5 1290 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-relational-databases:mssql">
+    <rect x="244.35" y="1330.35" width="188.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="305" y="1356" font-size="17"><tspan>MS SQL</tspan></text>
+    <circle cx="245" cy="1336" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1336" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1336" r="10" fill="#38761D"/>
+    <path d="m239.5 1336 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-relational-databases:oracle">
+    <rect x="244.35" y="1376.35" width="188.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="312" y="1402" font-size="17"><tspan>Oracle</tspan></text>
+    <circle cx="245" cy="1382" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1382" r="10" fill="#FFF"/>
+    <circle cx="245" cy="1382" r="10" fill="#38761D"/>
+    <path d="m239.5 1382 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="107-nosql-databases">
+    <rect x="757.35" y="1188.35" width="188.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="775" y="1218.5" font-weight="bold" font-size="17"><tspan>NoSQL Databases</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-nosql-databases:document-databases">
+    <rect x="991.35" y="1183.35" width="323.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1005" y="1209.5" font-weight="bold" font-size="17"><tspan>Document</tspan></text>
+    <text x="1095" y="1209.5" font-weight="bold" font-size="17"><tspan fill="#2b78e4">MongoDB</tspan><tspan>, CouchDB</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="103-nosql-databases:realtime-databases">
+    <circle cx="1231" cy="1325" r="10" fill="#FFF"/>
+    <rect x="990.35" y="1318.35" width="325.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1005" y="1344" font-weight="bold" font-size="17"><tspan>Realtime</tspan></text>
+    <text x="1088" y="1344.5" font-weight="bold" font-size="17"><tspan fill="#2b78e4">Firebase</tspan><tspan>, RethinkDB</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="101-more-about-databases:acid">
+    <rect x="529.35" y="1327.35" width="168.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="592" y="1353" font-size="17"><tspan>ACID</tspan></text>
+    <circle cx="531" cy="1332" r="10" fill="#FFF"/>
+    <circle cx="531" cy="1332" r="10" fill="#90F"/>
+    <path d="m525.5 1332 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="108-more-about-databases">
+    <rect x="763.35" y="1433.35" width="235.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="792" y="1464.5" font-weight="bold" font-size="17"><tspan>More about Databases</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="102-more-about-databases:transactions">
+    <rect x="529.35" y="1371.35" width="168.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="568" y="1396" font-size="17"><tspan>Transactions</tspan></text>
+    <circle cx="531" cy="1375" r="10" fill="#FFF"/>
+    <circle cx="531" cy="1375" r="10" fill="#90F"/>
+    <path d="m525.5 1375 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-more-about-databases:n-plus-one-problem">
+    <rect x="529.35" y="1415.35" width="168.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="567" y="1441" font-size="17"><tspan>N+1 Problem</tspan></text>
+    <circle cx="531" cy="1421" r="10" fill="#FFF"/>
+    <circle cx="531" cy="1421" r="10" fill="#90F"/>
+    <path d="m525.5 1421 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="107-more-about-databases:sharding-strategies">
+    <rect x="1081.35" y="1426.35" width="203.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1107" y="1451" font-size="17"><tspan>Sharding Strategies</tspan></text>
+    <circle cx="1281" cy="1431" r="10" fill="#FFF"/>
+    <circle cx="1281" cy="1431" r="10" fill="#999"/>
+    <path d="m1275.5 1431 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-more-about-databases:database-normalization">
+    <rect x="436.35" y="1461.35" width="263.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="482" y="1487" font-size="17"><tspan>Database Normalization</tspan></text>
+    <circle cx="439" cy="1461" r="10" fill="#FFF"/>
+    <circle cx="439" cy="1461" r="10" fill="#90F"/>
+    <path d="m433.5 1461 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="106-more-about-databases:data-replication">
+    <rect x="1081.35" y="1381.35" width="204.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1122" y="1406" font-size="17"><tspan>Data Replication</tspan></text>
+    <circle cx="1281" cy="1381" r="10" fill="#FFF"/>
+    <circle cx="1281" cy="1381" r="10" fill="#999"/>
+    <path d="m1275.5 1381 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-more-about-databases:database-indexes">
+    <rect x="435.35" y="1507.35" width="265.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="466" y="1533" font-size="17"><tspan>Indexes and how they work</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="109-apis">
+    <rect x="777.35" y="1593.35" width="235.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="823" y="1624.5" font-weight="bold" font-size="17"><tspan>Learn about APIs</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-apis:rest">
+    <rect x="1086.35" y="1521.35" width="185.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1155" y="1547" font-size="17"><tspan>REST</tspan></text>
+    <text x="1092" y="1577" font-size="14"><tspan>Read Roy Fielding’s Paper</tspan></text>
+    <circle cx="1267" cy="1521" r="10" fill="#FFF"/>
+    <circle cx="1267" cy="1521" r="10" fill="#90F"/>
+    <path d="m1261.5 1521 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-apis:json-apis">
+    <rect x="1086.35" y="1585.35" width="185.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1134" y="1611" font-size="17"><tspan>JSON APIs</tspan></text>
+    <circle cx="1268" cy="1587" r="10" fill="#FFF"/>
+    <circle cx="1268" cy="1587" r="10" fill="#90F"/>
+    <path d="m1262.5 1587 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-apis:soap">
+    <rect x="1086.35" y="1631.35" width="185.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1154" y="1657" font-size="17"><tspan>SOAP</tspan></text>
+    <circle cx="1268" cy="1635" r="10" fill="#FFF"/>
+    <circle cx="1268" cy="1635" r="10" fill="#999"/>
+    <path d="m1262.5 1635 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-apis:hateoas">
+    <rect x="435.35" y="1571.35" width="265.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="529" y="1597" font-size="17"><tspan>HATEOAS</tspan></text>
+    <circle cx="438" cy="1572" r="10" fill="#FFF"/>
+    <circle cx="438" cy="1572" r="10" fill="#999"/>
+    <path d="m432.5 1572 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-apis:open-api-spec">
+    <rect x="435.35" y="1617.35" width="265.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="456" y="1642" font-size="17"><tspan>Open API Spec and Swagger</tspan></text>
+    <circle cx="438" cy="1620" r="10" fill="#FFF"/>
+    <circle cx="438" cy="1620" r="10" fill="#999"/>
+    <path d="m432.5 1620 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="108-more-about-databases:cap-theorem">
+    <rect x="1082.35" y="1472.35" width="203.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1129" y="1497" font-size="17"><tspan>CAP Theorem</tspan></text>
+    <circle cx="1281" cy="1476" r="10" fill="#FFF"/>
+    <circle cx="1281" cy="1476" r="10" fill="#999"/>
+    <path d="m1275.5 1476 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="106-apis:authentication">
+    <rect x="435.35" y="1664.35" width="265.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="512" y="1690" font-size="17"><tspan>Authentication</tspan></text>
+    <circle cx="439" cy="1667" r="10" fill="#FFF"/>
+    <circle cx="439" cy="1667" r="10" fill="#90F"/>
+    <path d="m433.5 1667 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M920 1831.5q.194 72.347 0 155.5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="111-web-security-knowledge">
+    <rect x="740.35" y="1809.35" width="237.3" height="51.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="762" y="1842.5" font-weight="bold" font-size="17"><tspan>Web Security Knowledge</tspan></text>
+  </g>
+  <rect x="835.35" y="1916.35" width="453.3" height="168.3" rx="2" fill="#FFF" stroke="#000" stroke-width="2.7"/>
+  <g class="clickable-group" data-group-id="106-web-security-knowledge:cors">
+    <rect x="850.35" y="1980.35" width="160.3" height="39.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="905" y="2007.5" font-weight="bold" font-size="17"><tspan>CORS</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="105-web-security-knowledge:https">
+    <rect x="849.35" y="1930.35" width="163.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="899" y="1958.5" font-weight="bold" font-size="17"><tspan>HTTPS</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="105-web-security-knowledge:content-security-policy">
+    <rect x="1020.35" y="1930.35" width="254.3" height="41.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1050" y="1958.5" font-weight="bold" font-size="17"><tspan>Content Security Policy</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="108-web-security-knowledge:owasp">
+    <rect x="849.35" y="2028.35" width="424.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="968" y="2056.5" font-weight="bold" font-size="17"><tspan>OWASP Security Risks</tspan></text>
+  </g>
+  <rect x="1019.35" y="1720.35" width="267.3" height="182.3" rx="2" fill="#FFF" stroke="#000" stroke-width="2.7"/>
+  <g class="clickable-group" data-group-id="100-web-security-knowledge:md5">
+    <rect x="1034.35" y="1728.35" width="236.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1053" y="1754" font-size="17"><tspan>MD5 and why not to use it</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="101-web-security-knowledge:sha-family">
+    <rect x="1035.35" y="1773.35" width="234.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1106" y="1798" font-size="17"><tspan>SHA Family</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="104-web-security-knowledge:scrypt">
+    <rect x="1036.35" y="1819.35" width="116.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1073" y="1843.5" font-size="17"><tspan>scrypt</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="102-web-security-knowledge:bcrypt">
+    <rect x="1162.35" y="1819.35" width="108.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1196" y="1844" font-size="17"><tspan>bcrypt</tspan></text>
+  </g>
+  <text x="1075" y="1885" font-size="17"><tspan>Hashing Algorithms</tspan></text>
+  <g class="clickable-group" data-group-id="100-apis:authentication:cookie-based">
+    <rect x="178.35" y="1487.35" width="220.3" height="29.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="231.386" y="1508.5" font-size="18"><tspan>Cookie Based</tspan></text>
+    <circle cx="181" cy="1490" r="10" fill="#FFF"/>
+    <circle cx="181" cy="1490" r="10" fill="#999"/>
+    <path d="m175.5 1490 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="107-web-security-knowledge:ssl-tls">
+    <rect x="1019.35" y="1980.35" width="255.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1109" y="2007.5" font-weight="bold" font-size="17"><tspan>SSL/TLS</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="112-testing">
+    <rect x="528.35" y="1946.35" width="156.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="575" y="1977" font-weight="bold" font-size="17"><tspan>Testing</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="100-testing:integration-testing">
+    <rect x="280.35" y="1915.35" width="189.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="300" y="1941" font-size="17"><tspan>Integration Testing</tspan></text>
+    <circle cx="282" cy="1915" r="10" fill="#FFF"/>
+    <circle cx="282" cy="1915" r="10" fill="#90F"/>
+    <path d="m276.5 1915 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-testing:unit-testing">
+    <rect x="279.35" y="1962.35" width="190.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="325" y="1987" font-size="17"><tspan>Unit Testing</tspan></text>
+    <circle cx="282" cy="1964" r="10" fill="#FFF"/>
+    <circle cx="282" cy="1964" r="10" fill="#90F"/>
+    <path d="m276.5 1964 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-testing:functional-testing">
+    <rect x="279.35" y="2003.35" width="190.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="299" y="2028" font-size="17"><tspan>Functional Testing</tspan></text>
+    <circle cx="282" cy="2006" r="10" fill="#FFF"/>
+    <circle cx="282" cy="2006" r="10" fill="#90F"/>
+    <path d="m276.5 2006 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M744 513q65.727 64.06 9 151.5M698 317q-46.784 57.552-8 112" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <text x="644" y="295.5" font-weight="bold" font-size="32"><tspan>Backend</tspan></text>
+  <path d="M758 176q5.763 41.213-17 79" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <rect x="950.35" y="170.35" width="347.3" height="138.3" rx="2" fill="#FFF" stroke="#000" stroke-width="2.7"/>
+  <text x="963" y="205" font-size="17"><tspan>Find the detailed version of this roadmap</tspan></text>
+  <text x="963" y="233" font-size="17"><tspan>along with resources and other roadmaps</tspan></text>
+  <g class="clickable-group" data-group-id="ext_link:roadmap.sh">
+    <rect x="965.35" y="251.35" width="317.3" height="42.3" rx="2" fill="#4135D6" stroke="#4135D6" stroke-width="2.7"/>
+    <text x="1105" y="279.5" fill="#FFF" font-size="20"><tspan>roadmap.sh</tspan></text>
+    <text x="1040" y="279.5" fill="#FFF" font-size="20"><tspan>http</tspan></text>
+    <text x="1077" y="278" fill="#FFF" font-weight="bold" font-size="20"><tspan>:</tspan></text>
+    <text x="1084" y="280.5" fill="#FFF" font-size="20"><tspan>/</tspan></text>
+    <text x="1092" y="280.5" fill="#FFF" font-size="20"><tspan>/</tspan></text>
+  </g>
+  <rect x="138.35" y="160.35" width="405.3" height="159.3" rx="2" fill="#FFF" stroke="#000" stroke-width="2.7"/>
+  <circle cx="170" cy="190" r="10" fill="#FFF"/>
+  <circle cx="170" cy="190" r="10" fill="#90F"/>
+  <path d="m164.5 190 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="196" y="198" font-size="16"><tspan>Personal Recommendation / Opinion</tspan></text>
+  <text x="196" y="295" font-size="16"><tspan>I wouldn&apos;t recommend</tspan></text>
+  <circle cx="170" cy="287" r="10" fill="#999"/>
+  <text x="197" y="263" font-size="16"><tspan>Order in roadmap not strict (Learn anytime)</tspan></text>
+  <circle cx="170" cy="255" r="10" fill="#FFF"/>
+  <circle cx="170" cy="255" r="10" fill="#999"/>
+  <path d="m164.5 255 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="196" y="231" font-size="16"><tspan>Alternative Option - Pick this or purple</tspan></text>
+  <circle cx="170" cy="222" r="10" fill="#FFF"/>
+  <circle cx="170" cy="222" r="10" fill="#FFF"/>
+  <circle cx="170" cy="222" r="10" fill="#38761D"/>
+  <path d="m164.5 222 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M746 674.5q-51.724 127.168 13 264M759 951q26.967 90.044-72 151" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="undefined"/>
+  <path d="M829.5 938q41.756-33.245 43-82M660 938.5q-45.62-24.675-48-73M575 961.5q-59.72 58.752-118 74M1031 1020q-45.79-27.115-91-60.5M1029 972q-44.425-12.079-93-23.5M1046 922q-51.833 6.957-115 17.5M578 945.5q-71.113 43.403-131 45M599 937l-141 5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="100-learn-a-language:go">
+    <rect x="801.35" y="828.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="855" y="853" font-size="17"><tspan>Go</tspan></text>
+    <circle cx="802" cy="829" r="10" fill="#FFF"/>
+    <circle cx="802" cy="829" r="10" fill="#FFF"/>
+    <circle cx="802" cy="829" r="10" fill="#38761D"/>
+    <path d="m796.5 829 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-learn-a-language:java">
+    <rect x="330.35" y="922.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="378" y="948" font-size="17"><tspan>Java</tspan></text>
+    <circle cx="331" cy="924" r="10" fill="#FFF"/>
+    <circle cx="331" cy="924" r="10" fill="#FFF"/>
+    <circle cx="331" cy="924" r="10" fill="#38761D"/>
+    <path d="m325.5 924 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-learn-a-language:rust">
+    <rect x="543.35" y="832.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="590" y="858" font-size="17"><tspan>Rust</tspan></text>
+    <circle cx="544" cy="832" r="10" fill="#FFF"/>
+    <circle cx="544" cy="832" r="10" fill="#FFF"/>
+    <circle cx="544" cy="832" r="10" fill="#38761D"/>
+    <path d="m538.5 832 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-learn-a-language:csharp">
+    <rect x="330.35" y="971.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="383" y="997" font-size="17"><tspan>C#</tspan></text>
+    <circle cx="331" cy="974" r="10" fill="#FFF"/>
+    <circle cx="331" cy="974" r="10" fill="#FFF"/>
+    <circle cx="331" cy="974" r="10" fill="#38761D"/>
+    <path d="m325.5 974 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-learn-a-language">
+    <rect x="567.35" y="921.35" width="377.3" height="95.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="681" y="952" font-weight="bold" font-size="17"><tspan>Learn a Language</tspan></text>
+    <text x="582" y="978" font-size="15"><tspan>Make sure to learn its quirks. Core details about its</tspan></text>
+    <text x="603" y="1001" font-size="15"><tspan>runtime e.g. concurrency, memory model etc.</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="103-learn-a-language:php">
+    <rect x="330.35" y="1018.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="380" y="1044" font-size="17"><tspan>PHP</tspan></text>
+    <circle cx="331" cy="1023" r="10" fill="#FFF"/>
+    <circle cx="331" cy="1023" r="10" fill="#FFF"/>
+    <circle cx="331" cy="1023" r="10" fill="#38761D"/>
+    <path d="m325.5 1023 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-learn-a-language:javascript">
+    <rect x="1020.35" y="907.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1046" y="933" font-size="17"><tspan>JavaScript</tspan></text>
+    <circle cx="1150" cy="909" r="10" fill="#FFF"/>
+    <circle cx="1150" cy="909" r="10" fill="#90F"/>
+    <path d="m1144.5 909 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="106-learn-a-language:python">
+    <rect x="1020.35" y="953.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1059" y="979" font-size="17"><tspan>Python</tspan></text>
+    <circle cx="1151" cy="957" r="10" fill="#FFF"/>
+    <circle cx="1151" cy="957" r="10" fill="#FFF"/>
+    <circle cx="1151" cy="957" r="10" fill="#38761D"/>
+    <path d="m1145.5 957 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="107-learn-a-language:ruby">
+    <rect x="1020.35" y="999.35" width="133.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1066" y="1025" font-size="17"><tspan>Ruby</tspan></text>
+    <circle cx="1151" cy="1001" r="10" fill="#FFF"/>
+    <circle cx="1151" cy="1001" r="10" fill="#FFF"/>
+    <circle cx="1151" cy="1001" r="10" fill="#38761D"/>
+    <path d="m1145.5 1001 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M844 500q69.98 2.688 154 40" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <path d="M852 502q63.327 69.221 152 83M612 504q-73.173 3.456-124 57M1002 482q-73.482-7.42-150-28M1006 437q-73.044 4.448-152 12M1001 388q-73.14 13.442-149 59M602 456q-57.928 30.233-129 36M602 452q-60.005-3.545-129-7M604 449q-59.594-35.912-141-51" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="100-internet">
+    <rect x="593.35" y="425.35" width="269.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="693" y="456" font-weight="bold" font-size="17"><tspan>Internet</tspan></text>
+    <circle cx="596" cy="424" r="10" fill="#FFF"/>
+    <circle cx="596" cy="424" r="10" fill="#90F"/>
+    <path d="m590.5 424 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-internet:how-does-the-internet-work">
+    <rect x="197.35" y="376.35" width="296.3" height="41.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="234" y="404" font-size="17"><tspan>How does the internet work?</tspan></text>
+    <circle cx="199" cy="376" r="10" fill="#FFF"/>
+    <circle cx="199" cy="376" r="10" fill="#90F"/>
+    <path d="m193.5 376 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-internet:what-is-http">
+    <rect x="197.35" y="426.35" width="296.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="286" y="452" font-size="17"><tspan>What is HTTP?</tspan></text>
+    <circle cx="198" cy="428" r="10" fill="#FFF"/>
+    <circle cx="198" cy="428" r="10" fill="#90F"/>
+    <path d="m192.5 428 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-internet:browsers-and-how-they-work">
+    <rect x="197.35" y="472.35" width="296.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="230" y="498" font-size="17"><tspan>Browsers and how they work?</tspan></text>
+    <circle cx="198" cy="473" r="10" fill="#FFF"/>
+    <circle cx="198" cy="473" r="10" fill="#90F"/>
+    <path d="m192.5 473 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-internet:dns-and-how-it-works">
+    <rect x="990.35" y="371.35" width="277.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1040" y="397" font-size="17"><tspan>DNS and how it works?</tspan></text>
+    <circle cx="1265" cy="371" r="10" fill="#FFF"/>
+    <circle cx="1265" cy="371" r="10" fill="#90F"/>
+    <path d="m1259.5 371 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-internet:what-is-domain-name">
+    <rect x="989.35" y="417.35" width="277.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1039" y="443" font-size="17"><tspan>What is Domain Name?</tspan></text>
+    <circle cx="1264" cy="421" r="10" fill="#FFF"/>
+    <circle cx="1264" cy="421" r="10" fill="#90F"/>
+    <path d="m1258.5 421 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-internet:what-is-hosting">
+    <rect x="990.35" y="463.35" width="277.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1063" y="489" font-size="17"><tspan>What is hosting?</tspan></text>
+    <circle cx="1264" cy="466" r="10" fill="#FFF"/>
+    <circle cx="1264" cy="466" r="10" fill="#90F"/>
+    <path d="m1258.5 466 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-basic-frontend">
+    <rect x="593.35" y="481.35" width="269.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="624" y="512" font-weight="bold" font-size="17"><tspan>Basic Frontend Knowledge</tspan></text>
+    <circle cx="597" cy="485" r="10" fill="#FFF"/>
+    <circle cx="597" cy="485" r="10" fill="#90F"/>
+    <path d="m591.5 485 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-basic-frontend:html">
+    <rect x="354.35" y="537.35" width="139.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="399" y="565" font-size="17"><tspan>HTML</tspan></text>
+    <circle cx="357" cy="537" r="10" fill="#FFF"/>
+    <circle cx="357" cy="537" r="10" fill="#90F"/>
+    <path d="m351.5 537 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-basic-frontend:css">
+    <rect x="990.35" y="516.35" width="139.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1041" y="544" font-size="17"><tspan>CSS</tspan></text>
+    <circle cx="1125" cy="518" r="10" fill="#FFF"/>
+    <circle cx="1125" cy="518" r="10" fill="#90F"/>
+    <path d="m1119.5 518 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-basic-frontend:javascript">
+    <rect x="990.35" y="567.35" width="139.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1023" y="594" font-size="17"><tspan>JavaScript</tspan></text>
+    <circle cx="1125" cy="571" r="10" fill="#FFF"/>
+    <circle cx="1125" cy="571" r="10" fill="#90F"/>
+    <path d="m1119.5 571 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M1001.5 869q-71.213-101.5-135-195M1007.5 803q-71.527-68.04-136-131M1002.5 742q-68.566-46.73-138-76M1004.5 690q-73.81-15.222-141-30M1004.5 649q-75.264 3.085-144 5" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="105-os-general-knowledge:memory-management">
+    <rect x="990.35" y="627.35" width="264.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1039" y="655" font-size="17"><tspan>Memory Management</tspan></text>
+    <circle cx="1251" cy="628" r="10" fill="#FFF"/>
+    <circle cx="1251" cy="628" r="10" fill="#90F"/>
+    <path d="m1245.5 628 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="106-os-general-knowledge:interprocess-communication">
+    <rect x="990.35" y="676.35" width="265.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1012" y="703" font-size="17"><tspan>Interprocess Communication</tspan></text>
+    <circle cx="1251" cy="681" r="10" fill="#FFF"/>
+    <circle cx="1251" cy="681" r="10" fill="#90F"/>
+    <path d="m1245.5 681 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="107-os-general-knowledge:io-management">
+    <rect x="990.35" y="726.35" width="265.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1055" y="754" font-size="17"><tspan>I/O Management</tspan></text>
+    <circle cx="1251" cy="731" r="10" fill="#FFF"/>
+    <circle cx="1251" cy="731" r="10" fill="#90F"/>
+    <path d="m1245.5 731 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="108-os-general-knowledge:posix-basics">
+    <rect x="990.35" y="776.35" width="265.3" height="62.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1067" y="805.5" font-weight="bold" font-size="17"><tspan>POSIX Basics</tspan></text>
+    <text x="1033" y="824" font-size="15"><tspan>stdin, stdout, stderr, pipes</tspan></text>
+    <circle cx="1251" cy="781" r="10" fill="#FFF"/>
+    <circle cx="1251" cy="781" r="10" fill="#90F"/>
+    <path d="m1245.5 781 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="109-os-general-knowledge:basic-networking-concepts">
+    <rect x="990.35" y="848.35" width="265.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1014" y="875" font-size="17"><tspan>Basic Networking Concepts</tspan></text>
+    <circle cx="1251" cy="856" r="10" fill="#FFF"/>
+    <circle cx="1251" cy="856" r="10" fill="#90F"/>
+    <path d="m1245.5 856 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M614 678q-55.3 58.89-128 151M612 671q-58.829 39.864-125 107M608 669q-64.65 20.429-119 55M613 663q-57.756 3.663-131 11M615 661q-61.345-21.825-138-32" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="102-os-general-knowledge">
+    <rect x="606.35" y="644.35" width="269.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="633" y="675.5" font-weight="bold" font-size="17"><tspan>OS and General Knowledge</tspan></text>
+    <circle cx="611" cy="643" r="10" fill="#FFF"/>
+    <circle cx="611" cy="643" r="10" fill="#90F"/>
+    <path d="m605.5 643 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-os-general-knowledge:terminal-usage">
+    <rect x="229.35" y="604.35" width="266.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="301" y="632" font-size="17"><tspan>Terminal Usage</tspan></text>
+    <circle cx="232" cy="604" r="10" fill="#FFF"/>
+    <circle cx="232" cy="604" r="10" fill="#90F"/>
+    <path d="m226.5 604 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-os-general-knowledge:basic-terminal-commands">
+    <rect x="229.35" y="803.35" width="266.3" height="98.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="258" y="833" font-weight="bold" font-size="17"><tspan>Basic Terminal Commands</tspan></text>
+    <text x="244" y="859" font-size="17"><tspan>grep, awk, sed, lsof, curl, wget</tspan></text>
+    <text x="255" y="885" font-size="17"><tspan>tail, head, less, find, ssh, kill</tspan></text>
+    <circle cx="232" cy="807" r="10" fill="#FFF"/>
+    <circle cx="232" cy="807" r="10" fill="#90F"/>
+    <path d="m226.5 807 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-os-general-knowledge:process-management">
+    <rect x="230.35" y="703.35" width="264.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="277" y="730" font-size="17"><tspan>Process Management</tspan></text>
+    <circle cx="232" cy="705" r="10" fill="#FFF"/>
+    <circle cx="232" cy="705" r="10" fill="#90F"/>
+    <path d="m226.5 705 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-os-general-knowledge:threads-and-concurrency">
+    <rect x="230.35" y="753.35" width="265.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="262" y="781" font-size="17"><tspan>Threads and Concurrency</tspan></text>
+    <circle cx="232" cy="756" r="10" fill="#FFF"/>
+    <circle cx="232" cy="756" r="10" fill="#90F"/>
+    <path d="m226.5 756 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-os-general-knowledge:how-oss-work-in-general">
+    <rect x="230.35" y="653.35" width="265.3" height="40.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="264" y="680" font-size="17"><tspan>How OSs work in General</tspan></text>
+    <circle cx="232" cy="657" r="10" fill="#FFF"/>
+    <circle cx="232" cy="657" r="10" fill="#90F"/>
+    <path d="m226.5 657 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M1182 1121q-28.262-1.208-58 0M870 1117q-40.444-1.73-83 0M419.5 1122q27.044 1.156 55.5 0" fill="none" stroke="#2B78E4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"/>
+  <g class="clickable-group" data-group-id="100-version-control-systems:git">
+    <rect x="211.35" y="1095.35" width="213.3" height="51.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="241" y="1128.5" font-weight="bold" font-size="17"><tspan>Basic Usage of Git</tspan></text>
+    <circle cx="212" cy="1096" r="10" fill="#FFF"/>
+    <circle cx="212" cy="1096" r="10" fill="#90F"/>
+    <path d="m206.5 1096 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-repo-hosting-services:github">
+    <rect x="1179.35" y="997.35" width="128.3" height="46.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="1212" y="1028.5" font-weight="bold" font-size="17"><tspan>GitHub</tspan></text>
+    <circle cx="1302" cy="998" r="10" fill="#FFF"/>
+    <circle cx="1302" cy="998" r="10" fill="#90F"/>
+    <path d="m1296.5 998 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-repo-hosting-services">
+    <rect x="834.35" y="1080.35" width="316.3" height="75.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="899" y="1113.5" font-weight="bold" font-size="17"><tspan>Repo hosting services</tspan></text>
+    <text x="854" y="1137" font-size="15"><tspan>Create account and Learn to use GitHub</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="104-version-control-systems">
+    <rect x="465.35" y="1081.35" width="333.3" height="74.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="529" y="1114.5" font-weight="bold" font-size="17"><tspan>Version Control Systems</tspan></text>
+    <text x="483" y="1137" font-size="15"><tspan>What are they and why you should use one</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="102-repo-hosting-services:bitbucket">
+    <rect x="1179.35" y="1105.35" width="128.3" height="46.3" rx="2" fill="#999" fill-opacity=".5" stroke="#FFF" stroke-width="2.7"/>
+    <text x="1204" y="1135" fill="#333" font-weight="bold" font-size="17"><tspan>Bitbucket</tspan></text>
+    <rect x="1179.35" y="1105.35" width="128.3" height="45.3" rx="2" fill="#EEE" fill-opacity=".25" stroke="#666" stroke-width="2.7"/>
+    <circle cx="1304" cy="1110" r="10" fill="#FFF"/>
+    <circle cx="1304" cy="1110" r="10" fill="#FFF"/>
+    <circle cx="1304" cy="1110" r="10" fill="#38761D"/>
+    <path d="m1298.5 1110 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-repo-hosting-services:gitlab">
+    <rect x="1179.35" y="1051.35" width="128.3" height="46.3" rx="2" fill="#999" fill-opacity=".5" stroke="#FFF" stroke-width="2.7"/>
+    <text x="1218" y="1081.5" fill="#333" font-weight="bold" font-size="17"><tspan>GitLab</tspan></text>
+    <rect x="1179.35" y="1051.35" width="128.3" height="46.3" rx="2" fill="#EEE" fill-opacity=".25" stroke="#666" stroke-width="2.7"/>
+    <circle cx="1304" cy="1055" r="10" fill="#FFF"/>
+    <circle cx="1304" cy="1055" r="10" fill="#FFF"/>
+    <circle cx="1304" cy="1055" r="10" fill="#38761D"/>
+    <path d="m1298.5 1055 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-more-about-databases:orms">
+    <rect x="529.35" y="1283.35" width="168.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="592" y="1309" font-size="17"><tspan>ORMs</tspan></text>
+    <circle cx="531" cy="1284" r="10" fill="#FFF"/>
+    <circle cx="531" cy="1284" r="10" fill="#90F"/>
+    <path d="m525.5 1284 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="113-ci-cd">
+    <rect x="534.35" y="2030.35" width="137.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="572" y="2061.5" font-weight="bold" font-size="17"><tspan>CI / CD</tspan></text>
+    <circle cx="535" cy="2032" r="10" fill="#FFF"/>
+    <circle cx="535" cy="2032" r="10" fill="#90F"/>
+    <path d="m529.5 2032 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="114-design-and-development-principles">
+    <rect x="502.35" y="2114.35" width="321.3" height="47.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="525" y="2145.5" font-weight="bold" font-size="17"><tspan>Design and Development Principles</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="103-design-and-development-principles:solid">
+    <rect x="156.35" y="2204.35" width="258.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="258" y="2229" font-size="17"><tspan>SOLID</tspan></text>
+    <circle cx="158" cy="2210" r="10" fill="#FFF"/>
+    <circle cx="158" cy="2210" r="10" fill="#90F"/>
+    <path d="m152.5 2210 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-design-and-development-principles:kiss">
+    <rect x="156.35" y="2246.35" width="258.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="264" y="2271" font-size="17"><tspan>KISS</tspan></text>
+    <circle cx="157" cy="2253" r="10" fill="#FFF"/>
+    <circle cx="157" cy="2253" r="10" fill="#90F"/>
+    <path d="m151.5 2253 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="105-design-and-development-principles:yagni">
+    <rect x="157.35" y="2287.35" width="257.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="259" y="2313" font-size="17"><tspan>YAGNI</tspan></text>
+    <circle cx="157" cy="2295" r="10" fill="#FFF"/>
+    <circle cx="157" cy="2295" r="10" fill="#90F"/>
+    <path d="m151.5 2295 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="106-design-and-development-principles:dry">
+    <rect x="157.35" y="2331.35" width="257.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="267" y="2357" font-size="17"><tspan>DRY</tspan></text>
+    <circle cx="159" cy="2338" r="10" fill="#FFF"/>
+    <circle cx="159" cy="2338" r="10" fill="#90F"/>
+    <path d="m153.5 2338 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-design-and-development-principles:gof-design-patterns">
+    <rect x="157.35" y="2068.35" width="257.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="202" y="2093" font-size="17"><tspan>GOF Design Patterns</tspan></text>
+    <circle cx="158" cy="2071" r="10" fill="#FFF"/>
+    <circle cx="158" cy="2071" r="10" fill="#999"/>
+    <path d="m152.5 2071 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-design-and-development-principles:domain-driven-design">
+    <rect x="157.35" y="2113.35" width="257.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="198" y="2138" font-size="17"><tspan>Domain Driven Design</tspan></text>
+    <circle cx="158" cy="2117" r="10" fill="#FFF"/>
+    <circle cx="158" cy="2117" r="10" fill="#999"/>
+    <path d="m152.5 2117 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="102-design-and-development-principles:test-driven-development">
+    <rect x="157.35" y="2158.35" width="257.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="188" y="2183" font-size="17"><tspan>Test Driven Development</tspan></text>
+    <circle cx="158" cy="2164" r="10" fill="#FFF"/>
+    <circle cx="158" cy="2164" r="10" fill="#999"/>
+    <path d="m152.5 2164 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="104-architectural-patterns:serverless">
+    <rect x="958.35" y="2348.35" width="242.3" height="34.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1036" y="2372" font-size="17"><tspan>Serverless</tspan></text>
+    <circle cx="1197" cy="2354" r="10" fill="#FFF"/>
+    <circle cx="1197" cy="2354" r="10" fill="#90F"/>
+    <path d="m1191.5 2354 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="123-scalability">
+    <rect x="572.35" y="2834.35" width="315.3" height="126.3" rx="2" fill="#FF0" stroke="#000" stroke-width="2.7"/>
+    <text x="656" y="2868.5" font-weight="bold" font-size="17"><tspan>Building for Scale</tspan></text>
+    <text x="598" y="2895" font-size="16"><tspan>General topics that you should learn</tspan></text>
+    <text x="595" y="2918" font-size="16"><tspan>and care about for the sustainability</tspan></text>
+    <text x="676" y="2942" font-size="16"><tspan>of the product.</tspan></text>
+    <circle cx="571" cy="2834" r="10" fill="#FFF"/>
+    <circle cx="571" cy="2834" r="10" fill="#90F"/>
+    <path d="m565.5 2834 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="100-scalability:mitigation-strategies">
+    <rect x="316.35" y="2759.35" width="196.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="335" y="2784" font-size="17"><tspan>Mitigation Strategies</tspan></text>
+    <circle cx="511" cy="2760" r="10" fill="#FFF"/>
+    <circle cx="511" cy="2760" r="10" fill="#90F"/>
+    <path d="m505.5 2760 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-scalability:instrumentation-monitoring-telemetry">
+    <rect x="317.35" y="2896.35" width="195.3" height="33.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="338" y="2920" font-size="17"><tspan>Understand the Diff.</tspan></text>
+  </g>
+  <text x="169" y="2925" font-size="17"><tspan>Monitoring</tspan></text>
+  <text x="162" y="2768" font-size="17"><tspan>Throttling</tspan></text>
+  <text x="131" y="2796" font-size="17"><tspan>Backpressure</tspan></text>
+  <text x="140" y="2824" font-size="17"><tspan>Loadshifting</tspan></text>
+  <text x="168" y="2718" font-size="17"><tspan>Graceful</tspan></text>
+  <text x="167" y="2950" font-size="17"><tspan>Telemetry</tspan></text>
+  <text x="129" y="2900" font-size="17"><tspan>Instrumentation</tspan></text>
+  <text x="122" y="2849" font-size="17"><tspan>Circuit Breaker</tspan></text>
+  <g class="clickable-group" data-group-id="102-scalability:migration-strategies">
+    <rect x="939.35" y="2869.35" width="330.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1031" y="2894" font-size="17"><tspan>Migration Strategies</tspan></text>
+    <circle cx="1266" cy="2869" r="10" fill="#FFF"/>
+    <circle cx="1266" cy="2869" r="10" fill="#90F"/>
+    <path d="m1260.5 2869 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="103-scalability:horizontal-vertial-scaling">
+    <rect x="940.35" y="2915.35" width="329.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="993" y="2940" font-size="17"><tspan>Horizontal vs Vertical Scaling</tspan></text>
+    <circle cx="1266" cy="2922" r="10" fill="#FFF"/>
+    <circle cx="1266" cy="2922" r="10" fill="#90F"/>
+    <path d="m1260.5 2922 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="142" y="2738" font-size="17"><tspan>Degradation</tspan></text>
+  <circle cx="441" cy="1511" r="10" fill="#FFF"/>
+  <circle cx="441" cy="1511" r="10" fill="#90F"/>
+  <path d="m435.5 1511 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1282" cy="1713" r="10" fill="#FFF"/>
+  <circle cx="1282" cy="1713" r="10" fill="#90F"/>
+  <path d="m1276.5 1713 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1287" cy="1920" r="10" fill="#FFF"/>
+  <circle cx="1287" cy="1920" r="10" fill="#90F"/>
+  <path d="m1281.5 1920 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="clickable-group" data-group-id="103-apis:grpc">
+    <rect x="1087.35" y="1675.35" width="185.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1135" y="1701" font-size="17"><tspan>gRPC</tspan></text>
+    <circle cx="1269" cy="1677" r="10" fill="#FFF"/>
+    <circle cx="1269" cy="1677" r="10" fill="#90F"/>
+    <path d="m1263.5 1677 4 4 6.5-6.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="clickable-group" data-group-id="101-nosql-databases:column-databases">
+    <rect x="991.35" y="1228.35" width="323.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1005" y="1254.5" font-weight="bold" font-size="17"><tspan>Column DBs</tspan></text>
+    <text x="1110" y="1254" font-weight="bold" font-size="17"><tspan fill="#2b78e4">Cassandra</tspan></text>
+  </g>
+  <g class="clickable-group" data-group-id="102-nosql-databases:timeseries-databases">
+    <rect x="990.35" y="1273.35" width="325.3" height="37.3" rx="2" fill="#FFE599" stroke="#000" stroke-width="2.7"/>
+    <text x="1005" y="1299" font-weight="bold" font-size="17"><tspan>Time series</tspan></text>
+    <text x="1109" y="1300.5" font-weight="bold" font-size="17"><tspan fill="#2b78e4">InfluxDB</tspan><tspan>, TimescaleDB</tspan></text>
+  </g>
+</svg>

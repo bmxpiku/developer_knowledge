@@ -1,5 +1,5 @@
 # Just bunch of things every dev should know.
-#### for sure php one
+## Generic programming thing
 
 
  1. S.O.L.I.D.
@@ -18,64 +18,90 @@
   - factory
   - facade
   - strategy
-  - [CSQR](https://martinfowler.com/bliki/CQRS.html)
+  - [CQRS](https://martinfowler.com/bliki/CQRS.html)
 
  7. [Dependency Injection](http://fabien.potencier.org/what-is-dependency-injection.html)
- 7. IoC - [Inversion of control](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
- 8. Auth strategies
+ 8. IoC - [Inversion of control](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
+ 9. Design by contract [DbC](docs/Design_by_contract.md)
+ 10. Auth strategies
   - Oauth, Oauth2
   - Hawk
   - Api keys(private public)
   - JWT
   - others?
  9. Closures
- 10. Traits
- 11. TDD, BDD
-  - Simpletest
-  - Unit-tests
-  - PHPspec
-  - Behat
-  - Selenium
- 12. What was introduced in php 5.6
- 13. What was introduced in php 7 / 7.2
- 14. [Generators in php](http://php.net/manual/en/language.generators.overview.php)
- 15. SOAP vs ↙️
- 16. REST
+ 11. SOAP vs ↙️
+ 12. REST
   - methods
   - response codes
   - difference between PUT and PATCH
- 17. RESTful rules
- 18. How mock works (do you know [mockery](http://docs.mockery.io/en/latest/))
- 19. What are the rules of [code review](docs/code_review.md)
+  - 4 levels of maturity
+  - API versioning - ways to do it
+ 13. RESTful rules
+ 14. How mock works (do you know [mockery](http://docs.mockery.io/en/latest/))
+ 15. What are the rules of [code review](docs/code_review.md)
   - tools like Crucible, etc.
- 20. Active record, data mapper
- 21. PHP - finally - does it always work?
- 22. OOP vs AOP
- 23. reverse proxy
- 24. amazon services (or other cloud)
-  - SQS
+ 16. Active record, data mapper (useful in [ORMs](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm))
+ 17. OOP vs AOP
+ 18. reverse proxy
+ 19. amazon services (or other cloud) / GCP
+  - SQS / DLQ
   - Cloudwatch
   - S3
   - Lambda functions
   - Docker deployment
- 25. rabbit queue
- 26. Frameworks/CMS
-  - Symfony
-  - Laravel
-  - Drupal
-  - Etc....
- 27. Docker/ docker-compose
- 28. continuous integration
+ 20. RabbitMQ and pub/sub concept
+ 21. Docker/ docker-compose
+ - layers in container
+ - CMD/Entrypoint
+ - difference between image and container
+ 22. continuous integration
   - chef
   - jenkins
   - bamboo
+  - CicleCI
+  - Drone
   - other usefull tools like Round-robin
- 29. databases
-  - relative vs non relative - ex. mysql vs mongo
- 30. How to check performance of the code.
- 31. Linters?
+ 23. How to check performance of the code.
+ 24. Linters?
+ - SonarQube
+
+## Databases
+ - ACID
+ - Transactions
+ - what are indexes
+ - SQL/ NO-SQL differences
+ - JOIN
+ - multiple columns as primary key
+ - Enums
+ - relations 1...n etc
+
+## PHP section
+
+1. Frameworks/CMS
+- Symfony
+- Laravel
+- Drupal
+- Etc....
+2. Traits
+3. TDD, BDD
+- Simpletest
+- Unit-tests
+- PHPspec
+- Behat
+- Selenium
+4What was introduced in php [5.6](docs/php5.6.md)
+5. What was introduced in php [7 / 7.2](docs/php7.md)
+6. [Generators in php](http://php.net/manual/en/language.generators.overview.php)
+7. PHP - finally - does it always work?
 
 
+## JavaScript section
+1. Generators
+2. Streams
+3. Multithreading / worker threads
+4. ES6 + ES7 [features](docs/es6-es7.md)
+5. typescript
 
  #### Random questions that might come handy
   - https://www.toptal.com/drupal/interview-questions
