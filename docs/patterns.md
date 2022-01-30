@@ -1,14 +1,24 @@
 [Source](https://phptherightway.com/pages/Design-Patterns.html)
 [All of them](https://designpatternsphp.readthedocs.io/en/latest/)
-## Singelton
+[DP segregation](https://kariera.future-processing.pl/blog/design-patterns/)
+
+# Creational
+Creational patterns are associated with control mechanisms of creating objects.
+The basic mode of forming an object may be problematic in some projects
+and may lead to unnecessary complexity in some areas. 
+Creational patterns are supposed to prevent from occurring problems 
+and introduce more control over creating objects. 
+Their task is to separate the processes of creation, 
+completion and representation of an object.
+
+## 1. Singelton
 When designing web applications, it often makes sense conceptually and architecturally to allow access to one and only one instance of a particular class. The singleton pattern enables us to do this.
 
 The singleton pattern is useful when we need to make sure we only have a single instance of a class for the entire request lifecycle in a web application. This typically occurs when we have global objects (such as a Configuration class) or a shared resource (such as an event queue).
 
 You should be wary when using the singleton pattern, as by its very nature it introduces global state into your application, reducing testability. In most cases, dependency injection can (and should) be used in place of a singleton class.
-## composition
 
-## factory
+## 2. Factory
 One of the most commonly used design patterns is the factory pattern. In this pattern, a class simply creates the object you want to use. Consider the following example of the factory pattern:
 
 ```
@@ -46,8 +56,14 @@ One of the most commonly used design patterns is the factory pattern. In this pa
 This code uses a factory to create the Automobile object. There are two possible benefits to building your code this way; the first is that if you need to change, rename, or replace the Automobile class later on you can do so and you will only have to modify the code in the factory, instead of every place in your project that uses the Automobile class. The second possible benefit is that if creating the object is a complicated job you can do all of the work in the factory, instead of repeating it every time you want to create a new instance.
 
 Remember - that sometimes it can just add complexity.
-## facade
 
+## 3. Builder
+
+# Behavioral
+Behavioural patterns task is to introduce flexibility 
+to solutions connected with inter-objects communication. 
+They are focused on allocating 
+specific roles and duties between objects in communication.
 ## strategy
 
 With the strategy pattern you encapsulate specific families of algorithms allowing the client class responsible for instantiating a particular algorithm to have no knowledge of the actual implementation. There are several variations on the strategy pattern, the simplest of which is outlined below:
@@ -122,4 +138,15 @@ $client->setOutput(new JsonStringOutput());
 $data = $client->loadOutput();
 ```
 
-### adapter
+
+# Structural
+The most important feature of these patterns is 
+to facilitate the operation and design applications 
+through finding an easy way to realize dependencies between entities.
+Due to this patterns it is easier 
+to design applications which contain independent class libraries.
+
+## 1. adapter
+## 2. decorator
+## 3. facade
+## 4. composition

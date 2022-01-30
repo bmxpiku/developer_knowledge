@@ -65,6 +65,7 @@
  23. How to check performance of the code.
  24. Linters?
  - SonarQube
+ 25. Abstraction vs Hermetization[details](docs/abstractionVShermetization.md) 
 
 ## Databases
  - ACID
