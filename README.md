@@ -31,7 +31,7 @@
   - others?
  9. Closures
  11. SOAP vs ↙️
- 12. REST
+ 12. [REST](docs/rest.md)
   - methods
   - response codes
   - difference between PUT and PATCH
