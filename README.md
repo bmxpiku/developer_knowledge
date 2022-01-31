@@ -42,7 +42,7 @@
  15. What are the rules of [code review](docs/code_review.md)
   - tools like Crucible, etc.
  16. Active record, data mapper (useful in [ORMs](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm))
- 17. OOP vs AOP
+ 17. OOP vs [AOP](docs/aop.md)
  18. reverse proxy
  19. amazon services (or other cloud) / GCP
   - SQS / DLQ
@@ -77,6 +77,33 @@
  - Enums
  - relations 1...n etc
 
+
+## JavaScript section
+1. Generators
+2. Streams
+3. Multithreading / worker threads
+4. ES6 + ES7 [features](docs/es6-es7.md)
+5. typescript
+6. Multiple inheritance using mixins - [ts-mixer](https://www.npmjs.com/package/ts-mixer)
+7. `for..in` versus `for..of`
+
+for..in iterates over all enumerable property keys of an object
+for..of iterates over the values of an iterable object. Examples of iterable objects are arrays, strings, and NodeLists.
+
+GOOD EXAMPLE is Set
+```javascript
+let pets = new Set(["Cat", "Dog", "Hamster"]);
+pets["species"] = "mammals";
+
+for (let pet in pets) {
+   console.log(pet); // "species"
+}
+
+for (let pet of pets) {
+    console.log(pet); // "Cat", "Dog", "Hamster"
+}
+```
+
 ## PHP section
 
 1. Frameworks/CMS
@@ -91,25 +118,18 @@
 - PHPspec
 - Behat
 - Selenium
-4What was introduced in php [5.6](docs/php5.6.md)
+  4What was introduced in php [5.6](docs/php5.6.md)
 5. What was introduced in php [7 / 7.2](docs/php7.md)
 6. [Generators in php](http://php.net/manual/en/language.generators.overview.php)
 7. PHP - finally - does it always work?
 
 
-## JavaScript section
-1. Generators
-2. Streams
-3. Multithreading / worker threads
-4. ES6 + ES7 [features](docs/es6-es7.md)
-5. typescript
-
- #### Random questions that might come handy
+ ### Random questions that might come handy
   - https://www.toptal.com/drupal/interview-questions
   - https://career.guru99.com/top-21-drupal-interview-questions/
   - [How drupal works /slightly outdated](https://stackoverflow.com/a/14434247/1597404)
 
-#### Some php tricks
+### Some php tricks
  - var_dump((bool) 1==2); what will return
  - && vs AND
  - foreach vs for
