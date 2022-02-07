@@ -63,9 +63,14 @@
   - Drone
   - other usefull tools like Round-robin
  23. How to check performance of the code.
- 24. Linters?
+ 24. Quality checks/Linters?
  - SonarQube
  25. Abstraction vs Hermetization[details](docs/abstractionVShermetization.md) 
+ 26. Event storming
+ 27. Immutable vs Mutable
+ 28. Imperative/Declarative/Functional
+ 29. TDD/[BDD](docs/BDD.md)/[DDD](docs/DDD.md)
+ 30. Version Control (GIT/SVN)
 
 ## Databases
  - ACID
@@ -76,6 +81,12 @@
  - multiple columns as primary key
  - Enums
  - relations 1...n etc
+ - pessimistic/optimistic locking
+    - The pessimistic locking model prevents simultaneous updates to records.
+    - Optimistic locking is a technique for SQL database applications that does not hold row 
+   locks between selecting and updating or deleting a row. The application is written to 
+   optimistically assume that unlocked rows are unlikely to change before 
+   the update or delete operation.
 
 
 ## JavaScript section
@@ -103,6 +114,12 @@ for (let pet of pets) {
     console.log(pet); // "Cat", "Dog", "Hamster"
 }
 ```
+
+8. Higher-Order Functions
+
+In Javascript, functions can be assigned to variables in the same way that strings or arrays can. They can be passed into other functions as parameters or returned from them as well.
+
+A “higher-order function” is a function that accepts functions as parameters and/or returns a function.
 
 ## PHP section
 
