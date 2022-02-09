@@ -12,9 +12,14 @@ Their task is to separate the processes of creation,
 completion and representation of an object.
 
 ## 1. Singelton
-When designing web applications, it often makes sense conceptually and architecturally to allow access to one and only one instance of a particular class. The singleton pattern enables us to do this.
+When designing web applications, it often makes sense conceptually and architecturally
+to allow access to one and only one instance of a particular class. 
+The singleton pattern enables us to do this.
 
-The singleton pattern is useful when we need to make sure we only have a single instance of a class for the entire request lifecycle in a web application. This typically occurs when we have global objects (such as a Configuration class) or a shared resource (such as an event queue).
+The singleton pattern is useful when we need to make sure we only have a single instance 
+of a class for the entire request lifecycle in a web application. 
+This typically occurs when we have global objects (such as a Configuration class) 
+or a shared resource (such as an event queue).
 
 You should be wary when using the singleton pattern, as by its very nature it introduces global state into your application, reducing testability. In most cases, dependency injection can (and should) be used in place of a singleton class.
 
@@ -66,9 +71,12 @@ They are focused on allocating
 specific roles and duties between objects in communication.
 ## strategy
 
-With the strategy pattern you encapsulate specific families of algorithms allowing the client class responsible for instantiating a particular algorithm to have no knowledge of the actual implementation. There are several variations on the strategy pattern, the simplest of which is outlined below:
+With the strategy pattern you encapsulate specific families of algorithms allowing the client class responsible 
+for instantiating a particular algorithm to have no knowledge of the actual implementation.
+There are several variations on the strategy pattern, the simplest of which is outlined below:
 
-This first code snippet outlines a family of algorithms; you may want a serialized array, some JSON or maybe just an array of data:
+This first code snippet outlines a family of algorithms; 
+you may want a serialized array, some JSON or maybe just an array of data:
 ```
 <?php
 
@@ -101,9 +109,14 @@ class ArrayOutput implements OutputInterface
     }
 }
 ```
-By encapsulating the above algorithms you are making it nice and clear in your code that other developers can easily add new output types without affecting the client code.
+By encapsulating the above algorithms you are making it nice and clear in your code 
+that other developers can easily add new output types without affecting the client code.
 
-You will see how each concrete ‘output’ class implements an OutputInterface - this serves two purposes, primarily it provides a simple contract which must be obeyed by any new concrete implementations. Secondly by implementing a common interface you will see in the next section that you can now utilise Type Hinting to ensure that the client which is utilising these behaviours is of the correct type in this case ‘OutputInterface’.
+You will see how each concrete ‘output’ class implements an OutputInterface - 
+this serves two purposes, primarily it provides a simple contract which must 
+be obeyed by any new concrete implementations. Secondly by implementing a common interface 
+you will see in the next section that you can now utilise Type Hinting to ensure 
+that the client which is utilising these behaviours is of the correct type in this case ‘OutputInterface’.
 
 The next snippet of code outlines how a calling client class might use one of these algorithms and even better set the behaviour required at runtime:
 ```
