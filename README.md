@@ -151,3 +151,15 @@ A “higher-order function” is a function that accepts functions as parameters
  - var_dump((bool) 1==2); what will return
  - && vs AND
  - foreach vs for
+
+
+### What actually I was asked:
+
+ - what are the differences and similarities between thread and process
+ - difference between queue(list) and Map
+ - how does hash table work
+ - name few sorting algorithms and which is faster
+ - what happens when you send request from browser - open question
+ - how does certificates for domains work + all about https (secure part)
+ - how can you verify auth header on the server without asking resource server (hint signature, based on secret)
+ - 
