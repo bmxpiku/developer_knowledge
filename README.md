@@ -72,6 +72,10 @@
  29. TDD/[BDD](docs/BDD.md)/[DDD](docs/DDD.md)
  30. Version Control (GIT/SVN)
 
+## Security
+1. How [https works](https://howhttps.works/)
+2. How JWT Works
+
 ## Databases
  - ACID
  - Transactions
