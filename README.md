@@ -1,4 +1,9 @@
 # Just bunch of things every dev should know.
+
+## Questions to ask
+ - [senior](docs/senior.md)
+ - [junior](docs/junior.md)
+
 ## Generic programming thing
 
 
@@ -53,14 +58,17 @@
  20. RabbitMQ and pub/sub concept
  21. Docker/ docker-compose
  - layers in container
+ - multistage builds
  - CMD/Entrypoint
  - difference between image and container
- 22. continuous integration
+ - shared volumes (example for database storage)
+ 22. continuous integration, for building, quality checks, and deployments
   - chef
   - jenkins
   - bamboo
-  - CicleCI
+  - CircleCI
   - Drone
+  - github actions
   - other usefull tools like Round-robin
  23. How to check performance of the code.
  24. Quality checks/Linters?
@@ -73,10 +81,11 @@
  30. Version Control (GIT/SVN)
 
 ## Security
-1. How [https works](https://howhttps.works/)
-2. How JWT Works
+ - [security](docs/security.md)
+ - [cryptography](docs/cryptography.md)
 
 ## Databases
+ - [indexes](docs/databases.md)
  - ACID
  - Transactions
  - what are indexes
@@ -94,7 +103,7 @@
 
 
 ## JavaScript section
-1. Generators
+1. [Generators](docs/generators.md)
 2. Streams
 3. Multithreading / worker threads
 4. ES6 + ES7 [features](docs/es6-es7.md)
@@ -102,6 +111,7 @@
 6. Multiple inheritance using mixins - [ts-mixer](https://www.npmjs.com/package/ts-mixer)
 7. `for..in` versus `for..of`
 8. Event Loop
+9. ESM features
 
 for..in iterates over all enumerable property keys of an object
 for..of iterates over the values of an iterable object. Examples of iterable objects are arrays, strings, and NodeLists.
